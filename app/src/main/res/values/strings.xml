@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Your App Name</string>
+    <string name="book_cover">Book Cover</string>
+    <string name="book_cover_description">Book Cover</string>
+</resources>
